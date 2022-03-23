@@ -1,0 +1,9 @@
+{
+  "name": "nodejs_pipeline_test",
+  "version": "0.0.0",
+  "description": "Nodejs_pipeline_test",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
